@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'augstina';
+					src: url('/wp-content/uploads/useanyfont/901Augstina.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/901Augstina.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.augstina{font-family: 'augstina' !important;}
+
+		
